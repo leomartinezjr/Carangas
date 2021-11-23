@@ -1,8 +1,6 @@
 //
 //  REST.swift
 //  Carangas
-//
-//  Created by Luana Martinez de La Flor on 27/10/21.
 //  Copyright © 2021 Eric Brito. All rights reserved.
 //
 
