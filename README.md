@@ -8,3 +8,4 @@ Alem de usar WKWebView.
 
 Exemplo :
 
+![Crud_IOS](https://user-images.githubusercontent.com/47374500/143141942-3de287ae-744e-40e7-ba8c-009e101bd755.gif)
